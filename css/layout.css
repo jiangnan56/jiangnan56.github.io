@@ -502,6 +502,10 @@ ul#nav li.current a { color: #F06000; }
 /* on hover */
 .portfolio-item:hover .overlay {
 	opacity: 1;
+  /*background: rgba(0,0,0,1) !important;*/
+  /*position: relative !important;*/
+  /*padding-top: 100px !important;*/
+  /*background-color: black !important;*/
 	-moz-opacity: 1;
 	filter:alpha(opacity=100);
 }
